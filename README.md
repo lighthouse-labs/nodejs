@@ -13,3 +13,5 @@ var promise = new Promise(function(resolve,reject){
 });
 
 ```
+3. If you are working with mongo, ensure the mongo server is running (try `mongod`)
+4. to start server `node server/main.js`
