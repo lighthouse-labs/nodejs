@@ -11,7 +11,7 @@ app.use('/api',require('./routes'));
 //    res.send("Hello World");
 //});
 
-app.listen(1338, function(){
+app.listen(3000, function(){
     console.log('2. Server is started on port 1338');
 });
 
